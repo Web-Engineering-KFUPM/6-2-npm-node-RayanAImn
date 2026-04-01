@@ -1,0 +1,24 @@
+{
+  "name": "6-2-npm-node-rayanaimn",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZnTlKcNR)\r # Node.js & npm Lab — CLI Calculator\r **Student Email:** s202249320@kfupm.edu.sa",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Web-Engineering-KFUPM/6-2-npm-node-RayanAImn.git"
+  },
+  "keywords": [],
+  "author": "s202249320@kfupm.edu.sa",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Web-Engineering-KFUPM/6-2-npm-node-RayanAImn/issues"
+  },
+  "homepage": "https://github.com/Web-Engineering-KFUPM/6-2-npm-node-RayanAImn#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
